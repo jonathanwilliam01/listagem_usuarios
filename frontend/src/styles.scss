@@ -1,0 +1,14 @@
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@import "primeicons/primeicons.css";
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.p-button{
+  height: 6vh;
+  width: 11vw;
+  font-size: 0.75em;
+}

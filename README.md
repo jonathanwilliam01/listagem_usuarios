@@ -19,3 +19,6 @@ Após a instalção do GIT, NODE e Docker
 Utilizar o terminal Powershell como adminitrador para instalação do Angular 17, e utilizar o seguinte comando:
 npm install -g @angular/cli@17
 
+Com a instalação destas ferramentas, clone o repositorio em sua maquina usando o git bash
+git clone 
+

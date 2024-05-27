@@ -15,7 +15,7 @@ Nescessario para utilização da aplicação em sua maquina:
  - Docker: https://www.docker.com/products/docker-desktop/
  - Angular 17: npm install -g @angular/cli@17
 
-Após a instalção do GIT, NODE e Docker
+Após a instalação do GIT, NODE e Docker
 Utilizar o terminal Powershell como adminitrador para instalação do Angular 17, e utilizar o seguinte comando:
 npm install -g @angular/cli@17
 
